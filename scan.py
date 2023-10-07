@@ -17,8 +17,7 @@ import matplotlib.pyplot as plt
 import itertools
 import math
 import cv2
-from pylsd import lsd
-
+from pylsd.lsd import lsd
 import argparse
 import os
 
